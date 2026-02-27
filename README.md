@@ -47,10 +47,10 @@ I'm a **Software Engineer** passionate about building robust, scalable applicati
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imranm12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Imran's GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranm12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranm12&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="55%"/>
