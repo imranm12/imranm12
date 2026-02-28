@@ -20,7 +20,6 @@ I'm a **Software Engineer** passionate about building robust, scalable applicati
 - ☁️ Deploying and scaling on **Microsoft Azure**
 - 🌱 Always exploring new patterns in software architecture and cloud-native development
 - 💬 Ask me about **C#, .NET, Angular, or Azure**
-- 📫 Reach me at **modeenimran@gmail.com**
 
 ---
 
