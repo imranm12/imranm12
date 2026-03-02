@@ -76,5 +76,3 @@ I'm a **Software Engineer** passionate about building robust, scalable applicati
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imranm12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
-
-<p align="center"><i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i></p>
